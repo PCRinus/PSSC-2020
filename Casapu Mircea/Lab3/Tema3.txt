@@ -1,0 +1,3 @@
+Tema: workflow-ul de postare a unei intrebari pe o platforma de tipul Stackoverflow.
+
+Un utilizator posteaza o noua intrebare pe platforma Stackoverflow, formularul cu intrebarea este validat. El verifica daca toate campurtile sunt completate, daca campurile au complexitatea necesara, si daca campul de body descrie problema avuta in detaliu. Daca toate aceste check-uri trec, intrebarea este postata pe Stackoverflow.
